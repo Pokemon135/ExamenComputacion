@@ -1,14 +1,26 @@
 h1 {
     text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 h2{
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 
 h3{
     text-align: center;
 }
+
+h5{
+    font-family: 'Pattaya', sans-serif;
+    text-align: justify;
+}
+
 p {
     text-align: justify;
+}
+
+img{
+    text-align: center;
 }
